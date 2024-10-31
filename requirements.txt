@@ -1,0 +1,4 @@
+tkinter
+pyperclip
+pyinstaller>=5.7.0
+pillow  # for icon handling
